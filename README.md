@@ -1,5 +1,5 @@
 # image-converters
-Useful Image Conversion script. Bash scripts & other tools that convert images filetypes into another type. | E.g. webp to jpg or png. 
+Useful Image Conversion script. Bash scripts & other tools that convert images filetypes. E.g. WEBP to JPG
 
 ## WEBP to JPG
 - Make new folder / directory.
